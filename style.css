@@ -1,0 +1,22 @@
+h1{
+    font-size: 50px;
+}
+.first{
+    color: brown;
+    font-family: 'Azeret Mono', monospace;
+}
+.second{
+    color: red;
+    font-family: 'Glory', sans-serif;
+}
+.third{
+    color: green;
+}
+.fourth{
+    color: yellow;
+    font-family: 'Lato', sans-serif;
+}
+.fifth{
+    color: blue;
+    font-family: 'Urbanist', sans-serif;
+}
